@@ -1,3 +1,4 @@
+from django.shortcuts import get_object_or_404
 from django.shortcuts import redirect
 from django.shortcuts import render
 from django.utils import timezone
@@ -20,3 +21,7 @@ def post_new(request):
     else:
         form = PostForm()
     return render(request, 'blog/post_edit.html', {'form': form})
+
+def post_detail(request, pk):
+    post = get_object_or_404(Post, pk=pk) # 1にあたる
+    return render(request, 'blog/post_detail.html', {'post': post}) # 2と3にあたる

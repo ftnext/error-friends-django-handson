@@ -37,6 +37,12 @@
 
 以下の3ステップでブログアプリに機能追加します。
 
+1. ブログ画面からブログ記事を作る
+2. ブログ記事の詳細が見られるようにする
+3. ブログ記事に画像を追加できるようにする
+
+次のブランチが各ステップを終えた時のソースコードです。
+
 1. ブログ画面からブログ記事を作る: [Jan/appendix](https://github.com/ftnext/error-friends-django-handson/tree/Jan/appendix)
 2. ブログ記事の詳細が見られるようにする: [Feb/part2](https://github.com/ftnext/error-friends-django-handson/tree/Feb/part2)
 3. ブログ記事に画像を追加できるようにする: [Feb/part3](https://github.com/ftnext/error-friends-django-handson/tree/Feb/part3)

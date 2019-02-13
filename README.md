@@ -9,7 +9,7 @@
 
 【エラーは友達】Django基礎ハンズオン [GitPitch スライド](https://gitpitch.com/ftnext/2019_slides/master?p=elv_Jan_django_errorfriends/)
 
-ハンズオンスライドに沿って進める場合は、Djangoをインストールした環境が必要です。
+ハンズオンスライドに沿って進める場合は、Djangoをインストールした環境が必要です。  
 参考：[環境を分離してDjangoの開発環境を作る（Python3系・Django2.1系）](環境を分離してDjangoの開発環境を作る（Python3系・Django2.1系）)
 
 以下の3ステップでブログアプリを作ります。
@@ -32,7 +32,7 @@
 
 [Jan/part2](https://github.com/ftnext/error-friends-django-handson/tree/Jan/part2) ブランチのソースコードから始めます。
 
-ハンズオンスライドに沿って進める場合は、Djangoをインストールした環境 + Jan/part2ブランチのソースコードが必要です。
+ハンズオンスライドに沿って進める場合は、Djangoをインストールした環境 + Jan/part2ブランチのソースコードが必要です。  
 参考：[Django基礎ハンズオンⅡ 環境構築手順](https://hackmd.io/s/B1wbA1n4V)
 
 以下の3ステップでブログアプリに機能追加します。
